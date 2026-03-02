@@ -12,3 +12,5 @@ while True:
         print("Too Short")
     else:
         print("Correct! You guessed the number in", attempts, "attempts.")
+        break
+
